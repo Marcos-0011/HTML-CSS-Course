@@ -1,0 +1,78 @@
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.tahoma {
+  font-family: tahoma;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.arial {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 22px;
+  width: 300px;
+  line-height: 25px;
+  margin-bottom: 30px;
+}
+.arial-sales {
+  color: red;
+  font-family: Arial;
+  font-style: italic;
+  font-size: 14px;
+}
+
+.verdana {
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 17px;
+  margin-bottom: 4px;
+}
+.verdana-subtitle {
+  font-family: verdana;
+  color: grey;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+.verdana-description {
+  font-family: verdana;
+  font-size: 15px;
+  width: 270px;
+  line-height: 20px;
+  margin-bottom: 15px;
+}
+.verdana-button {
+  background-color: green;
+  color: white;
+  padding-top: 6px;
+  padding-bottom: 8px;
+  padding-left: 14px;
+  padding-right: 14px;
+  border-radius: 8px;
+  border: none;
+  font-family: verdana;
+  margin-bottom: 30px;
+}
+
+.arial-shopping {
+  font-family: arial;
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+.arial-apple {
+  font-family: Arial;
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+.arial-learn {
+  font-family: arial;
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 10px;
+  color: rgb(0, 98, 255);
+}
