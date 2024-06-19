@@ -1,0 +1,86 @@
+.red {
+  width: 300px;
+  height: 300px;
+  background-color: red;
+}
+.green {
+  width: 200px;
+  height: 200px;
+  background: green;
+  border-radius: 100px;
+}
+.title {
+  font-family: arial;
+  margin-bottom: 15px;
+}
+.service {
+  width: 300px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(151, 151, 151);
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-bottom: 15px;
+}
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.youtube {
+  background-color: black;
+  width: 370px;
+  padding-top: 20px;
+  padding-left: 15px;
+  padding-right: 5px;
+  padding-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 100px;
+}
+.title2 {
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.subtitle {
+  color: grey;
+}
+
+.cat-user {
+  width: 400px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, .4);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.cat-pic {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+  vertical-align: middle;
+}
+
+.twitter-box {
+  width: 250px;
+  border: none;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+.tweet-button {
+  background-color: rgb(0, 136, 255);
+  color: white;
+  font-weight: bold;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 15px;
+  border: none;
+}
