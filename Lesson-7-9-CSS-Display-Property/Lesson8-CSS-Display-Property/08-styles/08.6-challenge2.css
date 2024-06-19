@@ -1,0 +1,40 @@
+.title {
+  font-family: Arial;
+  font-size: 24px;
+  margin-bottom: 18px;
+}
+
+input {
+  font-size: 10px;
+  width: 225px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 12px;
+  display: block;
+  margin-bottom: 4px;
+  background-color: rgb(236, 236, 236);
+  border: none;
+}
+
+.request {
+  margin-top: 20px;
+  font-size: 10px;
+  background-color: black;
+  color: white;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+
+.later {
+  font-size: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border: none;
+  margin-left: 10px;
+  cursor: pointer;
+}
