@@ -1,0 +1,55 @@
+div {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+
+  border-style: solid;
+  border-width: 1px;
+  border-color: purple;
+  height: 50px;
+  background-color: rgb(126, 92, 180);
+
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-section {
+  color: white;
+  font-weight: bold;
+  margin-left: 15px;
+  width: 50px;
+  cursor: pointer;
+}
+
+.middle-section {
+  flex: 1;
+  max-width: 400px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 15px;
+  border-radius: 15px;
+  border: none;
+}
+
+.searchbox {
+  
+}
+
+button {
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+  border-radius: 5px;
+  background-color: rgb(126, 92, 180);
+  color: white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-right: 8px;
+  cursor: pointer;
+}
