@@ -1,0 +1,61 @@
+div {
+  font-family: Arial;
+}
+
+.container-flexbox {
+  width: 400px;
+  margin-top: 20px;
+  margin-left: 20px;
+  display: flex;
+}
+
+.user-picture {
+  height: 50px;
+  border-radius: 25px;
+}
+
+.main-section {
+  margin-left: 10px;
+}
+
+.user {
+  font-weight: bold;
+}
+
+.user-handle {
+  color: gray;
+  font-weight: 500;
+}
+
+.message {
+  margin-top: 6px;
+  margin-bottom: 12px;
+}
+
+.video-link-flexbox {
+  display: flex;
+  border-style: solid;
+  border-color: rgb(213, 213, 213);
+  border-radius: 20px;
+  align-items: center;
+  overflow: hidden;
+}
+
+.empty-thumbnail {
+  width: 160px;
+  height: 100px;
+  background-color: rgb(213, 213, 213);
+}
+
+.right-section {
+  margin-left: 10px;
+}
+
+.website {
+  color: gray;
+}
+
+.video-title {
+  margin-top: 6px;
+  line-height: 20px;
+}
