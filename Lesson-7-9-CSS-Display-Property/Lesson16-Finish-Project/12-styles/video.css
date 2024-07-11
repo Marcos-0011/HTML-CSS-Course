@@ -8,7 +8,7 @@
 }
 
 .profile-picture {
-  width: 40px;
+  width: 36px;
   border-radius: 20px;
 }
 
@@ -16,12 +16,12 @@
   margin-top: 0;
   font-weight: 500;
   font-size: 14px;
-  margin-bottom: 12px;
+  margin-bottom: 10px;
   line-height: 20px;
 }
 
 .thumbnail-row {
-  margin-bottom: 12px;
+  margin-bottom: 8px;
   position: relative;
 }
 
